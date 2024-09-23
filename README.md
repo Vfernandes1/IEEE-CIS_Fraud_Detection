@@ -46,12 +46,6 @@ O modelo foi treinado utilizando o conjunto de dados de treinamento e validado c
 
 Durante o treinamento, foi observada a **curva de aprendizado** para identificar sinais de overfitting ou underfitting. A abordagem utilizada para melhorar o desempenho do modelo incluiu técnicas como ajuste de hiperparâmetros e regularização.
 
-## Análise dos Resultados
-
-Após o treinamento, os resultados foram analisados e comparados entre as diferentes fases do treinamento. Foram observados sinais de `overfitting/underfitting` em `inserir detalhes das observações feitas durante o treinamento`. 
-
-Algumas estratégias para melhorar o desempenho incluíram `inserir estratégias como ajuste de hiperparâmetros, aumento de dados, etc.`.
-
 ## Conclusão
 
 Este projeto abordou o uso de redes LSTM para a detecção de fraudes em transações financeiras. A documentação cobre desde a análise exploratória até a avaliação final do modelo, destacando as etapas de preparação dos dados, definição da arquitetura da LSTM, treinamento e validação do modelo. 
