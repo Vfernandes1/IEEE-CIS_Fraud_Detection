@@ -44,8 +44,8 @@ O modelo foi treinado utilizando o conjunto de dados de treinamento e validado c
 - **F1-score**
 - **AUC-ROC**
 
-Durante o treinamento, foi observada a **curva de aprendizado** para identificar sinais de overfitting ou underfitting. A abordagem utilizada para melhorar o desempenho do modelo incluiu técnicas como ajuste de hiperparâmetros e regularização.
+Durante o treinamento, foi observada a **curva de aprendizado** para identificar sinais de overfitting ou underfitting. No caso isso também é explicado após a avaliação dos resultados no notebook
 
-## Conclusão
+Também foram abordados alguns ajustes (no colab) que poderiam ser utilizados para melhorar o desempenho do modelo.
 
-Este projeto abordou o uso de redes LSTM para a detecção de fraudes em transações financeiras. A documentação cobre desde a análise exploratória até a avaliação final do modelo, destacando as etapas de preparação dos dados, definição da arquitetura da LSTM, treinamento e validação do modelo. 
+A atividade abordou o uso de redes LSTM para a detecção de fraudes em transações financeiras. A documentação cobre desde a análise exploratória até a avaliação final do modelo, destacando as etapas de preparação dos dados, definição da arquitetura da LSTM, treinamento e validação do modelo. 
